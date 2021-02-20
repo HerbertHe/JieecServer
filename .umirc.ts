@@ -8,6 +8,7 @@ export default defineConfig({
     // more config: https://d.umijs.org/config
     analytics: {
         ga: 'G-K83C9V6RR1',
+        baidu: 'dc3df250594573f31b083dba7c522f42',
     },
     navs: [
         null, // null 值代表保留约定式生成的导航，只做增量配置
