@@ -6,7 +6,7 @@ hero:
     - text: Jieec Server Download
       link: https://download.jieec.cn
     - text: 中北大学野生服务导航
-      link: https://server.jieec.cn/nuc-nav/
+      link: https://goer.icu/nuc-nav/
 footer: Copyright © 2019-2021 https://server.jieec.cn<br /><a href="https://beian.miit.gov.cn/#/Integrated/recordQuery">皖ICP备16017020号</a>
 ---
 
